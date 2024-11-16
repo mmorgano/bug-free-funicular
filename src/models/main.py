@@ -11,5 +11,5 @@ class Car:
         return f"{self.year} {self.make} {self.model}"
 # create a new instance of the class Car
 
-car = Car("Ford", "Fiesta", 2019)
+car = Car("Renault", "Clio", 2019)
 print(car)
